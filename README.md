@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj941_8bPt5-B5R-uL4XbJeuvJk-fZ5ACfFsXMbRPsz3tnBcwZNc7mlI63cqZDvbChKH4w-wlQFYZhYB_C6uTsJG7936Xjgt5-Md8Xq_jWHXNsjpJNjx0oMrpo_VZi8Kgae8dCHet7B292SnkGEE5sA58mrz0FXUc_Q3iYYoaywO3B6-1Xew5bLCbQywsk/s998/Recording%202025-11-18%20230921aajbfsgdjfasdog.gif)
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar Singh</h1>
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
