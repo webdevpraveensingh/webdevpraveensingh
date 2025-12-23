@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pr4veensingh@proton.me**
 
-- 📄 Know about my experiences [https://www.linkedin.com/-praveen-singh-](https://www.linkedin.com/-praveen-singh-)
+- 📄 Know about my experiences [https://www.linkedin.com/-praveen-singh-](https://www.linkedin.com/praveensingh-)
 
 
 <h3 align="left">Connect with me:</h3>
