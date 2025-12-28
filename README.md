@@ -13,7 +13,7 @@
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 
-- 🌱 I’m currently learning **Web Development and Programming**
+- 🌱 I’m currently learning **Web Development and Programming ❤️**
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdevpraveen](https://github.com/webdevpraveen)
 
