@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [github/webdevpraveen](https://github.com/webdevpraveen)
 
-- 📫 How to reach me **pr4veensingh@proton.me**
-
 - 📄 Know about my experiences [linkedin/praveensingh-](https://www.linkedin.com/in/praveensingh-)
 
 - ❤️ I love building open-source projects.
