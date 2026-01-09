@@ -37,3 +37,10 @@
 </picture>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67364454-52ea-49c7-9961-3c088da0f5f3" width="25" />
+ <a href="https://github.com/webdevpraveen" 
+     style="text-decoration:none; font-size:52px; font-weight:bold; margin: 0 16px;">
+       @webdevpraveen  <img src="https://github.com/user-attachments/assets/67364454-52ea-49c7-9961-3c088da0f5f3" width="25" />
+  </a> </p>  
