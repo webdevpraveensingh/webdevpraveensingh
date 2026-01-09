@@ -7,11 +7,6 @@
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
 <a href="https://praveenksingh.vercel.app" target="_blank">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=webdevpraveen&base=500">
-    <img src="https://komarev.com/ghpvc/?username=webdevpraveen&base=500" alt="webdevpraveen's profile views" />
-  </a>
-</p>
   
   <img align="right" alt="coding" height="250" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
